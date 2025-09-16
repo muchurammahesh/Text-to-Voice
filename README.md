@@ -37,10 +37,6 @@ This app uses the browser's built-in Web Speech API to transform any typed text 
 - CSS3
 - JavaScript (Web Speech API - SpeechSynthesis)
 
-## Browser Support
-
-This app works best in modern browsers supporting the Web Speech API. Chrome and Edge offer the best experience, while some browsers may have limited voice options.
-
 ## License
 
 This project is licensed under the MIT License.
