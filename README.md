@@ -5,6 +5,9 @@ A lightweight web application that converts written text into spoken words using
 ## Overview
 
 This app uses the browser's built-in Web Speech API to transform any typed text into natural-sounding speech. You can enter text, choose voice options like pitch and speed, and listen to the spoken version instantly. It's a great tool for accessibility, learning, or just having fun with speech synthesis—all without needing any backend or external service.
+
+<img width="1889" height="910" alt="TextToVoice" src="https://github.com/user-attachments/assets/410f9a5f-4ed3-4107-a1d5-61fe6d00fc66" />
+
 🚀 Check out the deployed application here:  
 👉 [Live Demo](https://text-to-voice-by-mahi.netlify.app/  )
 ## Features
